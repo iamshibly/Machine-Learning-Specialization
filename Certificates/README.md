@@ -13,7 +13,24 @@ These four credentials document successful completion of the complete specializa
 | Advanced Learning Algorithms | `f5f7ea2d-83cc-410a-b14b-393320f0d698` | [Official link](https://www.deeplearning.ai/certificates/f5f7ea2d-83cc-410a-b14b-393320f0d698) |
 | Unsupervised Learning, Recommenders, Reinforcement Learning | `bfef3db2-c1c6-448f-88ee-2d97e923187a` | [Official link](https://www.deeplearning.ai/certificates/bfef3db2-c1c6-448f-88ee-2d97e923187a) |
 
-<!-- CERTIFICATE_GALLERY: add the four provided certificate screenshots here -->
+## Certificate gallery
+
+### Machine Learning Specialization · Professional Certificate
+
+[![Machine Learning Specialization · Professional Certificate](images/machine-learning-specialization.png)](https://www.deeplearning.ai/certificates/c71eb09e-ce38-4ba7-9404-253847333526)
+
+### Supervised Machine Learning: Regression and Classification
+
+[![Supervised Machine Learning: Regression and Classification](images/supervised-machine-learning.png)](https://www.deeplearning.ai/certificates/3f710077-fe32-4cf2-ad7d-0e9f6fe73c78)
+
+### Advanced Learning Algorithms
+
+[![Advanced Learning Algorithms](images/advanced-learning-algorithms.png)](https://www.deeplearning.ai/certificates/f5f7ea2d-83cc-410a-b14b-393320f0d698)
+
+### Unsupervised Learning, Recommenders, Reinforcement Learning
+
+[![Unsupervised Learning, Recommenders, Reinforcement Learning](images/unsupervised-recommenders-reinforcement-learning.png)](https://www.deeplearning.ai/certificates/bfef3db2-c1c6-448f-88ee-2d97e923187a)
+
 
 The image previews are supplementary; the issuer's verification page should be used to confirm current validity and credential details.
 

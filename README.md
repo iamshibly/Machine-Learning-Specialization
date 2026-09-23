@@ -4,7 +4,7 @@
 
 A structured record of my work through the **Machine Learning Specialization**, offered by **DeepLearning.AI** in collaboration with **Stanford Online**. This repository brings together the course folders, Jupyter notebooks, lab resources, supporting material, and my completion credentials.
 
-<!-- COURSE_BANNER: optional screenshot added from the locally provided image assets -->
+![Machine Learning Specialization course page — DeepLearning.AI and Stanford Online](Header/course-page.png)
 
 ## Completion credentials
 
@@ -17,7 +17,7 @@ All four certificates shown below are dated **September 9, 2026**. Open the veri
 | Advanced Learning Algorithms | [Verify certificate](https://www.deeplearning.ai/certificates/f5f7ea2d-83cc-410a-b14b-393320f0d698) |
 | Unsupervised Learning, Recommenders, Reinforcement Learning | [Verify certificate](https://www.deeplearning.ai/certificates/bfef3db2-c1c6-448f-88ee-2d97e923187a) |
 
-<!-- CERTIFICATE_GALLERY: screenshots can be added here from the supplied certificate assets -->
+[![Machine Learning Specialization certificate — Md. Zubayer Ahmad Shibly](Certificates/images/machine-learning-specialization.png)](https://www.deeplearning.ai/certificates/c71eb09e-ce38-4ba7-9404-253847333526)
 
 The specialization credential represents completion of all three courses. Visit the [Certificates](Certificates/README.md) directory for the certificate IDs and official verification links; the updated screenshot gallery can also be added there.
 
