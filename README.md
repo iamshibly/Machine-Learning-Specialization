@@ -19,7 +19,7 @@ All four certificates shown below are dated **September 9, 2026**. Open the veri
 
 <!-- CERTIFICATE_GALLERY: screenshots can be added here from the supplied certificate assets -->
 
-The specialization credential represents completion of all three individual courses. The screenshots and PDF credentials are stored separately in [Certificates](Certificates/README.md) where available.
+The specialization credential represents completion of all three courses. Visit the [Certificates](Certificates/README.md) directory for the certificate IDs and official verification links; the updated screenshot gallery can also be added there.
 
 ## Learning path
 
