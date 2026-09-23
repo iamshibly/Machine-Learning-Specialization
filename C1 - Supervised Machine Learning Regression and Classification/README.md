@@ -1,53 +1,25 @@
-## Supervised Machine Learning : Regression and Classification
+# C1 · Supervised Machine Learning: Regression and Classification
 
+**Study archive:** Md. Zubayer Ahmad Shibly · [Back to specialization](../README.md)
 
-- [Week 1 Introduction to Machine Learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/)
+Understand how supervised models learn from data, how regression differs from classification, and how optimization and regularization shape model performance.
 
-    - [Practice quiz: Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Regression.PNG/)
-    - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Supervised%20vs%20Unsupervised%20Learning.PNG/)
-    - [Practice quiz: Train the model with gradient descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Train%20the%20model%20with%20gradient%20descent.png/)
-  - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs)
-    - [Brief Introduction to Python and Jupyter Notebooks](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
-    - [Model Representation](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
-    - [Cost Function](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
-    - [Gradient Descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+## Weekly guide
 
-<br/>
+| Week | Main focus | Materials |
+| --- | --- | --- |
+| 1 | Introduction to Machine Learning | [Open week](Week%201%20Introduction%20to%20Machine%20Learning/README.md) |
+| 2 | Regression with Multiple Input Variables | [Open week](Week%202%20Regression%20with%20Multiple%20Input%20Variables/README.md) |
+| 3 | Classification | [Open week](Week%203%20Classification/README.md) |
 
-- [Week 2 Regression with Multiple Input Variables](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/) 
+## What this course covers
 
-    - [Practice quiz: Gradient descent in practice](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Practice%20Quiz/Gradient%20Descent%20in%20Practice.png)
-    - [Practice quiz: Multiple linear regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Practice%20Quiz/Multiple%20Linear%20Regression.png)
-    - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/)
-      - [Numpy Vectorization](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
-      - [Multi Variate Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
-      - [Feature Scaling](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
-      - [Feature Engineering](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
-      - [Sklearn Gradient Descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
-    - [Programming Assignment - Graded Lab](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Graded%20Lab/)
-      - [Linear Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%202%20Regression%20with%20Multiple%20Input%20Variables/Graded%20Lab/LinearRegression.ipynb)
+- **Introduction to Machine Learning:** Supervised and unsupervised learning, including common application scenarios; Linear regression, model representation, and squared-error cost; Gradient descent and the effect of learning rate.
+- **Regression with Multiple Input Variables:** Multivariable linear regression with vectorized NumPy operations; Feature scaling, learning-rate selection, and gradient descent; Polynomial features, feature engineering, and scikit-learn implementations.
+- **Classification:** Sigmoid predictions and the decision boundary for logistic regression; Logistic loss, cost functions, and gradient-based optimization; Overfitting, regularization, and scikit-learn classification.
 
-<br/>
+## How to use this section
 
-- [Week 3 Classification](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/) 
+Open a week's README for a concise topic overview and links to its actual notebooks and practice folders. Source notebooks and their dependent datasets/images are kept together to avoid breaking execution.
 
-    - [Practice quiz: Classification with Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Classification%20with%20Logistic%20Regression.png)
-    - [Practice quiz: Cost Function for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Cost%20Function%20for%20Logistic%20Regression.png)
-    - [Practice quiz: Gradient Descent for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/Gradient%20Descent%20for%20Logistic%20Regression.png)
-    - [Practice quiz: The Problem of Overfitting](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Practice%20Quiz/The%20Problem%20of%20Overfitting.png)
-    - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/)
-      - [Classification](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab01_Classification_Soln.ipynb)
-      - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
-      - [Decision Boundry](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
-      - [Logistic Loss](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
-      - [Cost Function for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab05_Cost_Function_Soln.ipynb)
-      - [Gradient Descent for Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
-      - [Logistic Regression using Scikit-Learn](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
-      - [Overfitting](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab08_Overfitting_Soln.ipynb)
-      - [Regularized Cost and Gradient](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Optional%20Labs/C1_W3_Lab09_Regularization_Soln.ipynb)
-    - [Programming Assignment - Graded Lab](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Graded%20Lab/)
-      - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%203%20Classification/Graded%20Lab/C1_W3_Logistic_Regression.ipynb)
-
-<br/>
-
-
+Original course resources remain attributed to their creators; this directory serves as Md. Zubayer Ahmad Shibly's learning archive.

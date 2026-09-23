@@ -1,37 +1,25 @@
-## C3 - Unsupervised Learning, Recommenders, Reinforcement Learning
+# C3 · Unsupervised Learning, Recommenders, Reinforcement Learning
 
-- [Week 1 Unsupervised Learning](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/)
+**Study archive:** Md. Zubayer Ahmad Shibly · [Back to specialization](../README.md)
 
-    - [Practice quiz: Clustering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/Practice%20Quiz/Clustering.png/)
-    - [Practice quiz: Anomaly Detection](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/Practice%20Quiz/Anomaly%20Detection.png/)
-    
-  - [Programming Assignment - Graded Lab](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/Graded%20Lab)
-    - [K-means Clustering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/Graded%20Lab/C3_W1_KMeans_Assignment.ipynb)
-    - [Anomaly Detection](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%201%20Unsupervised%20Learning/Graded%20Lab/C3_W1_Anomaly_Detection.ipynb)
-<br/>
+Explore learning without target labels, recommendation techniques, and decision-making through reinforcement learning.
 
-- [Week 2 Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/)
+## Weekly guide
 
-    - [Practice quiz: Collaborative Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Collaborative%20Filtering.png/)
-    - [Practice quiz: Content Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Content%20Based%20Filtering.png/)
-    - [Practice quiz: Recommender Systems Implementation](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Practice%20Quiz/Recommender%20Systems%20Implementation.png/)
-  - [Optional Labs](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs)
-    - [An example on Exploratory Data Analysis](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Optional%20Labs/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
-   - [Programming Assignment - Graded Lab](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab)
-        - [Collaborative Filtering Recommender Systems](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_Collaborative_RecSys_Assignment.ipynb)
-        - [Deep Learning for Content-Based Filtering](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%202%20Recommender%20Systems/Graded%20Lab/C3_W2_RecSysNN_Assignment.ipynb)
+| Week | Main focus | Materials |
+| --- | --- | --- |
+| 1 | Unsupervised Learning | [Open week](Week%201%20Unsupervised%20Learning/README.md) |
+| 2 | Recommender Systems | [Open week](Week%202%20Recommender%20Systems/README.md) |
+| 3 | Reinforcement Learning | [Open week](Week%203%20Reinforcement%20Learning/README.md) |
 
-<br/>
+## What this course covers
 
-- [Week 3 Reinforcement Learning](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/)
+- **Unsupervised Learning:** K-means clustering and centroid updates; Anomaly detection and density-based reasoning; Interpreting patterns without predefined labels.
+- **Recommender Systems:** Collaborative filtering using user–item interaction patterns; Content-based filtering and learned item/user representations; Neural-network approaches to recommendation.
+- **Reinforcement Learning:** States, actions, rewards, policies, and value functions; Bellman-style updates and state–action value estimation; Deep Q-learning in the Lunar Lander exercise.
 
-    - [Practice quiz: Reinforcement Learning Introduction](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/Reinforcement%20Learning%20Introduction.png/)
-    - [Practice quiz: State-Action Value Function](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/State-Action%20Value%20Function.png/)
-    - [Practice quiz: Continuous State Spaces](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Practice%20Quiz/Continuous%20State%20Spaces.png/)
-  - [Optional Labs](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Optional%20Labs)
-    - [State Action Value Function Example](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Optional%20Labs/State-action%20value%20function%20example.ipynb)
-   - [Programming Assignment - Graded Lab](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Graded%20Lab)
-        - [Deep Q-Learning - Lunar Lander](/C3%20-%20Unsupervised%20Learning%20Recommenders%20Reinforcement%20Learning/Week%203%20Reinforcement%20Learning/Graded%20Lab/C3_W3_A1_Assignment.ipynb)
-        
+## How to use this section
 
-<br/>
+Open a week's README for a concise topic overview and links to its actual notebooks and practice folders. Source notebooks and their dependent datasets/images are kept together to avoid breaking execution.
+
+Original course resources remain attributed to their creators; this directory serves as Md. Zubayer Ahmad Shibly's learning archive.

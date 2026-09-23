@@ -1,14 +1,29 @@
-## Supervised Machine Learning : Regression and Classification
+# C1 · Week 1: Introduction to Machine Learning
 
-- [Week 1 Introduction to Machine Learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/)
+**Learning archive:** Md. Zubayer Ahmad Shibly
 
-    - [Practice quiz: Regression](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Regression.PNG/)
-    - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Supervised%20vs%20Unsupervised%20Learning.PNG/)
-    - [Practice quiz: Train the model with gradient descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Practice%20Quiz/Train%20the%20model%20with%20gradient%20descent.png/)
-  - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs)
-    - [Brief Introduction to Python and Jupyter Notebooks](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
-    - [Model Representation](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
-    - [Cost Function](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
-    - [Gradient Descent](/C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+[← Supervised Machine Learning: Regression and Classification](../README.md) · [Specialization overview](./../../README.md)
 
-<br/>
+## Topics and objectives
+
+- Supervised and unsupervised learning, including common application scenarios.
+- Linear regression, model representation, and squared-error cost.
+- Gradient descent and the effect of learning rate.
+
+## Working through the material
+
+Build an intuition for the training loop: choose a model, measure its error, update parameters, and inspect the result.
+
+## Included resources
+
+- [Optional Labs](Optional%20Labs/)
+- [Practice Quiz](Practice%20Quiz/)
+
+### Notebook index
+
+- [`C1_W1_Lab01_Python_Jupyter_Soln.ipynb`](./../../C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
+- [`C1_W1_Lab02_Model_Representation_Soln.ipynb`](./../../C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab02_Model_Representation_Soln.ipynb)
+- [`C1_W1_Lab03_Cost_function_Soln.ipynb`](./../../C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
+- [`C1_W1_Lab04_Gradient_Descent_Soln.ipynb`](./../../C1%20-%20Supervised%20Machine%20Learning%20Regression%20and%20Classification/Week%201%20Introduction%20to%20Machine%20Learning/Optional%20Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+
+Keep helper scripts, datasets, and images beside their original notebooks when running the labs. Original course material and legitimate attribution are preserved.

@@ -1,16 +1,30 @@
-## Advanced Learning Algorithms
+# C2 · Week 1: Neural Networks
 
+**Learning archive:** Md. Zubayer Ahmad Shibly
 
-- [Week 1 Neural Networks](/C2%20-%20Advanced%20Learning%20Algorithms/)
+[← Advanced Learning Algorithms](../README.md) · [Specialization overview](./../../README.md)
 
-    - [Practice quiz: Neural Network Implementation in Python](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Practice%20Quiz/Neural%20Network%20Implementation%20in%20Python.png/)
-    - [Practice quiz: Neural Network Intuition](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Practice%20Quiz/Neural%20Network%20Intuition.png/)
-    - [Practice quiz: Neural Network Model](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Practice%20Quiz/Neural%20Network%20Model.png/)
-    - [Practice quiz: Tensorflow Implementation](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Practice%20Quiz/Tensorflow%20Implementation.png/)
-  - [Optional Labs](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs)
-    - [Neurons and Layers](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
-    - [Simple Neural Network](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
-    - [Simple Neural Network Numpy](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
-  - [Programming Assignment - Graded Lab](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Graded%20Lab)
-    - [Neural Networks for Handwritten Digit Recognition, Binary](/C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Graded%20Lab/C2_W1_Assignment.ipynb)
-<br/>
+## Topics and objectives
+
+- Neurons, dense layers, activation functions, and inference.
+- Building neural networks using NumPy and TensorFlow.
+- Binary recognition with a handwritten-digit classification exercise.
+
+## Working through the material
+
+Follow information through a small network and connect layers, weights, activations, and model predictions.
+
+## Included resources
+
+- [Optional Labs](Optional%20Labs/)
+- [Graded Lab](Graded%20Lab/)
+- [Practice Quiz](Practice%20Quiz/)
+
+### Notebook index
+
+- [`C2_W1_Assignment.ipynb`](./../../C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Graded%20Lab/C2_W1_Assignment.ipynb)
+- [`C2_W1_Lab01_Neurons_and_Layers.ipynb`](./../../C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+- [`C2_W1_Lab02_CoffeeRoasting_TF.ipynb`](./../../C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+- [`C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb`](./../../C2%20-%20Advanced%20Learning%20Algorithms/Week%201%20Neural%20Networks/Optional%20Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+
+Keep helper scripts, datasets, and images beside their original notebooks when running the labs. Original course material and legitimate attribution are preserved.

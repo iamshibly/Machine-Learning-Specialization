@@ -1,8 +1,9 @@
+# Deep Q-Learning · Lunar Lander
 
+Part of the **Reinforcement Learning** week in the Machine Learning Specialization.
 
-## Deep Q-Learning - Lunar Lander
-Here is how the Lunar Lander works
+Explore the [Lunar Lander assignment notebook](C3_W3_A1_Assignment.ipynb) and supporting resources in this folder. The notebook introduces an agent that learns how to select actions using a deep Q-network.
 
+This file links to local coursework rather than embedding an unrelated third-party video. The original teaching materials remain credited to their original provider.
 
-https://user-images.githubusercontent.com/72703317/206881856-31a9b9d5-4907-45cc-be22-d5c7c20d843b.mp4
-
+**Study archive maintained by:** Md. Zubayer Ahmad Shibly.
